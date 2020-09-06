@@ -3,6 +3,8 @@ This repo records school and class notifications.
 
 ## 1 办理医保
 
+2020年9月6日
+
 通知链接：http://info.sz.tsinghua.edu.cn/info_detail_show.jsp?notemplate&seq=32590&boardid=732&first_classcode=73204&intClassCode=732
 
 pdf:https://github.com/TFprimeWJ/THU_Notes/blob/master/img/1_附件1_2019年公费医疗报销相关说明.pdf
